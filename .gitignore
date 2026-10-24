@@ -226,3 +226,5 @@ data/
 runs/
 *.pt
 weights/
+*.zip
+*.npy
