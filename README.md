@@ -3,7 +3,7 @@
 Detect and localise packaging and product-placement defects in pork rasher trays using YOLOv8 object detection, give each tray a PASS/FAIL verdict, and evaluate whether the method is accurate and fast enough for real-time inspection.
 
 Individual project for **MMA3001 Numerical Methods and Machine Learning**, Monash University.
-Author: [YOUR NAME], [STUDENT ID]
+Author: Oliver Paton, 36137235
 
 ## Problem and scope
 
